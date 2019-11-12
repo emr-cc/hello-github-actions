@@ -1,1 +1,1 @@
-# test
+ENTRYPOINT ["/entrypoint.sh"]
